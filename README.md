@@ -1,6 +1,6 @@
 # Unique Face Count
 
-This is an example application to count the number of people appearing in a video frame. The input can be from a webcam or a video file. If the input is webcam, it displays the results in a new window frame in real time and if the input is a video file, then it creates another video file with the name as _**output.mp4**_ which reflects the results of the corresponding input video file.
+This is an example application to count the number of people appearing in a video frame. The input can be from a webcam or a video file. If the input is a webcam, it displays the results in a new window frame in real-time and if the input is a video file, then it creates another video file with the name as _**output.mp4**_ which reflects the results of the corresponding input video file.
 
 ## Prerequisites
 
